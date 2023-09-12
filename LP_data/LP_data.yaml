@@ -1,0 +1,8 @@
+train: /content/gdrive/MyDrive/LP_data/train/images/
+val: /content/gdrive/MyDrive/LP_data/val/images/
+test: /content/gdrive/MyDrive/LP_data/test/images/
+
+# number of classes
+nc: 1
+# class names
+names: [ 'Llicense_Plate' ]
